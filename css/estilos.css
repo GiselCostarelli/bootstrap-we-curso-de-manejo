@@ -5,3 +5,26 @@
 .contenedor1{
     background-color: #4B5160;
 }
+
+.imagenserv{
+    width: 450px;
+    height: 400px;
+}
+
+.alineacion-der{
+    width: 130px;
+    height: 40px
+
+}
+.contenedor2{
+    background-color: #798196;
+}
+
+.imagen3{  
+    width: 1000px;   
+    height: 700px;
+}  
+
+.imagentutor{
+    width:400px;
+    }
